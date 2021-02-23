@@ -3,13 +3,17 @@
   box-sizing: border-box;
 }
 
+body.testsidapage{
+  margin: 0;
+}
+
 body.infopage{
-    margin: 0;
+  margin: 0;
 }
 
 body.indexpage {
   margin: 0;
-  background-image: url("https://media4.giphy.com/media/yTZWnkMNyGSS4OebEP/giphy.gif?cid=ecf05e47f427de1c804be5ba6f8f5a3b5bf6fd944d5e87b2&rid=giphy.gif");
+  background-image: url("https://i.pinimg.com/originals/00/cc/b5/00ccb59a1a02118b6cad14ceb578bb54.gif");
 }
 /* Style the header */
 .header {
